@@ -1,0 +1,24 @@
+NOTICE — The Open Music Box (enclosure / 3D-printable parts)
+=============================================================
+
+Copyright (c) 2024-2026 Jonathan Piette / The Open Music Box
+
+These design files are licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2).
+You may redistribute and modify them under the terms of that licence.
+The full licence text is provided in LICENSE.txt and at: https://ohwr.org/cern_ohl_s_v2.txt
+
+These design files are distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.
+
+Source Location
+---------------
+The up-to-date source for these files is maintained at:
+https://github.com/The-Open-Music-Box/enclosure
+
+Bill of materials, wiring and build guide for the V4 prototype:
+https://theopenmusicbox.com/en/build/hardware/prototype/
+
+As per the CERN-OHL-S v2, if you modify and distribute these files, you must keep this notice, state the date and nature of your modifications, provide your own Source Location for the modified version, and license it under CERN-OHL-S v2.
+
+Trademark Notice
+----------------
+This licence covers the design files only: it does NOT grant any right to use the names, brands or logos of The Open Company or of its products. You are free to build, modify and sell hardware based on these files, but you may not market it under those names or imply certification or endorsement by The Open Company.
