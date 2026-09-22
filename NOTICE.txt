@@ -14,6 +14,9 @@ Source Location
 The up-to-date source for these files is maintained at:
 https://github.com/The-Open-Music-Box/enclosure
 
+Printables listing for the V4 prototype enclosure:
+https://www.printables.com/model/1839324-musicbox-prototype-v4-enclosure-screen-free-nfc-au
+
 Bill of materials, wiring and build guide for the V4 prototype:
 https://theopenmusicbox.com/en/build/hardware/prototype/
 
