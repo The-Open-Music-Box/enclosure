@@ -7,6 +7,10 @@ The MusicBox is a screen-free audio player for children. The child places an NFC
 This is the enclosure of the V4 prototype of The Open Music Box project, designed around the HermitX development board.
 
 <p align="center">
+  <img src="docs/images/prototype-v4-assembled.jpg" alt="The printed V4 prototype, a card going into its slot" width="460">
+</p>
+
+<p align="center">
   <img src="docs/images/musicbox-loop.gif" alt="The MusicBox, card going in and out" width="420">
 </p>
 
@@ -23,7 +27,9 @@ The V4 enclosure is designed around the HermitX development board: an all-in-one
 | **Body** | `TMB prototype V4 - body.{stl,3mf,glb}` | The main shell that holds the board and the speaker |
 | **Top** | `TMB prototype V4 - top.{stl,3mf,step,glb}` | The lid with the card slot |
 | **Insert** | `TMB prototype V4 - insert.{stl,3mf,glb}` | The card holder |
-| **Rotary cap** | `TMB prototype V4 - vol.3mf` | The knob that fits over the board’s rotary encoder, the one you turn for volume. 3MF only for now, no STL |
+| **Rotary cap** | `TMB prototype V4 - rotary.3mf` | The knob that fits over the board’s rotary encoder, the one you turn for volume. 3MF only for now, no STL |
+
+`TMB prototype V4 - assembly.{3mf,glb}` holds the four parts together, for looking at the box rather than printing it.
 
 For the body, print the 3MF rather than the STL. It is a multi-material file: the side window is meant to be printed in a transparent filament so the light of the LEDs shows through, and the inner fins in a dark filament so that light does not bleed from one LED to the next. The STL is the single-material fallback, for slicers or workflows that need it.
 
@@ -33,6 +39,9 @@ Print settings used on the prototype: Prusa MK4S, 0.4 mm nozzle, 0.2 mm layers, 
 
 1. Print the four parts.
 2. Get the HermitX development board and the few parts listed in the [BOM](https://theopenmusicbox.com/en/build/hardware/prototype/).
+
+![Everything that goes inside: the HermitX board, its NFC antenna, the speaker, the four buttons, the rotary encoder, the battery and its charger.](docs/images/prototype-v4-components.jpg)
+
 3. Flash the firmware straight from your browser, nothing to install: [Flash the firmware](https://theopenmusicbox.com/en/build/flash).
 4. Install the app, add your music and stories, link them to NFC cards.
 
