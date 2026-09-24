@@ -1,4 +1,4 @@
-NOTICE — The Open Music Box (enclosure / 3D-printable parts)
+NOTICE: The Open Music Box (enclosure / 3D-printable parts)
 =============================================================
 
 Copyright (c) 2024-2026 Jonathan Piette / The Open Music Box
