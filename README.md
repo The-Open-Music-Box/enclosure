@@ -23,7 +23,7 @@ The V4 enclosure is designed around the HermitX development board: an all-in-one
 | **Body** | `TMB prototype V4 - body.{stl,3mf,glb}` | The main shell that holds the board and the speaker |
 | **Top** | `TMB prototype V4 - top.{stl,3mf,step,glb}` | The lid with the card slot |
 | **Insert** | `TMB prototype V4 - insert.{stl,3mf,glb}` | The card holder |
-| **Volume button** | `TMB prototype V4 - vol.3mf` | The cap that reaches the board’s volume switch through the shell. 3MF only for now, no STL |
+| **Rotary cap** | `TMB prototype V4 - vol.3mf` | The knob that fits over the board’s rotary encoder, the one you turn for volume. 3MF only for now, no STL |
 
 For the body, print the 3MF rather than the STL. It is a multi-material file: the side window is meant to be printed in a transparent filament so the light of the LEDs shows through, and the inner fins in a dark filament so that light does not bleed from one LED to the next. The STL is the single-material fallback, for slicers or workflows that need it.
 
